@@ -1,0 +1,11 @@
+C:\Users\milag\source\repos\laboratorio4\laboratorio4\bin\Debug\laboratorio4.exe.config
+C:\Users\milag\source\repos\laboratorio4\laboratorio4\bin\Debug\laboratorio4.exe
+C:\Users\milag\source\repos\laboratorio4\laboratorio4\bin\Debug\laboratorio4.pdb
+C:\Users\milag\source\repos\laboratorio4\laboratorio4\obj\Debug\laboratorio4.csproj.AssemblyReference.cache
+C:\Users\milag\source\repos\laboratorio4\laboratorio4\obj\Debug\laboratorio4.Properties.Resources.resources
+C:\Users\milag\source\repos\laboratorio4\laboratorio4\obj\Debug\laboratorio4.csproj.GenerateResource.cache
+C:\Users\milag\source\repos\laboratorio4\laboratorio4\obj\Debug\laboratorio4.csproj.CoreCompileInputs.cache
+C:\Users\milag\source\repos\laboratorio4\laboratorio4\obj\Debug\laboratorio4.exe
+C:\Users\milag\source\repos\laboratorio4\laboratorio4\obj\Debug\laboratorio4.pdb
+C:\Users\milag\source\repos\laboratorio4\laboratorio4\obj\Debug\laboratorio4.Login.resources
+C:\Users\milag\source\repos\laboratorio4\laboratorio4\obj\Debug\laboratorio4.Productos.resources
